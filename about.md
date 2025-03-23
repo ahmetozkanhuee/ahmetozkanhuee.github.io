@@ -6,8 +6,7 @@ nav_order: 2
 
 # About Me
 
-This page tells you a little bit about me.
-
-- I love open source
-- I build stuff with code
-- I'm exploring GitHub Pages with Jekyll themes!
+Ahmet Özkan\
+Undergraduate Electrical Electronical Engineering Student at Hacettepe University\
+Student Number:2230357099\
+Email: ahmet.ozkan@hacettepe.edu.tr
