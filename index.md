@@ -6,6 +6,7 @@ nav_order: 1
 
 # Welcome
 
-This is a simple GitHub Pages site using the `just-the-docs` theme.
+##Welcome to my Personal Site.\
 
-Use the navigation bar to explore the site.
+
+The links to homeworks are in the projects tab.
