@@ -1,0 +1,18 @@
+title: My GitHub Pages Site
+description: A simple site using the just-the-docs theme
+theme: just-the-docs
+
+# Remote theme usage
+remote_theme: just-the-docs/just-the-docs
+
+# Optional: Enable search
+search_enabled: true
+
+# Navbar links
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
