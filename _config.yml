@@ -1,13 +1,11 @@
-title: My GitHub Pages Site
-description: A simple site using the just-the-docs theme
+title: Ahmet Özkan
+description: Personal Site
 
-# Remote theme usage
 remote_theme: just-the-docs/just-the-docs
 
-# Optional: Enable search
 search_enabled: true
 
-# Navbar links
+
 nav:
   - title: Home
     url: /
